@@ -1,2 +1,2 @@
-# BuildingEscape
-BuildingEscape game from Udemy C++ with Unreal course - vulme trigger and grabbing system.
+# BattleTank
+BattleTank game from Udemy C++ with Unreal course - simple AI, adv control system
